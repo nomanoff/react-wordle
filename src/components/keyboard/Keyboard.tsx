@@ -77,7 +77,7 @@ export const Keyboard = ({
         <Key width={65.4} value="ENTER" onClick={onClick}>
           {ENTER_TEXT}
         </Key>
-        {['Z', 'X', 'C', 'V', 'B', 'N', 'M'].map((key) => (
+        {['Z', 'X', 'C', 'V', 'B', 'N', 'M', 'Ó', 'Ǵ'].map((key) => (
           <Key
             value={key}
             key={key}
