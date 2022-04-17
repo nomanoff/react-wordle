@@ -5,18 +5,41 @@ type Props = {
   handleClose: () => void
 }
 
+// https://github.com/nomanoff/react-wordle
+
 export const AboutModal = ({ isOpen, handleClose }: Props) => {
   return (
-    <BaseModal title="About" isOpen={isOpen} handleClose={handleClose}>
+    <BaseModal title="O'yin haqida" isOpen={isOpen} handleClose={handleClose}>
       <p className="text-sm text-gray-500 dark:text-gray-300">
-        This is an open source version of the word guessing game we all know and
-        love -{' '}
+        Ushbu web dastur Worlde o'yinining o'zbek tilidagi nusxasi {'->'}{' '}
+        <a
+          href="https://github.com/nomanoff/react-wordle"
+          className="underline font-bold"
+        >
+          GitHub havola
+        </a>{' '}
+      </p>
+
+      <br />
+
+      <p className="text-sm text-gray-500 dark:text-gray-300">
+        Worlde ning Reactdagi asl nusxasi {'->'}{' '}
         <a
           href="https://github.com/cwackerfuss/react-wordle"
           className="underline font-bold"
         >
-          check out the code here
+          GitHub havola
         </a>{' '}
+      </p>
+
+      <br />
+
+      <p className="text-sm text-gray-500 dark:text-gray-300">
+        O'zbek tiliga moslashtirishlar{' '}
+        <a href="https://github.com/nomanoff" className="underline font-bold">
+          Azizbek Nomanoff
+        </a>{' '}
+        tomonidan bajarildi.
       </p>
     </BaseModal>
   )
