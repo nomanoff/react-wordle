@@ -13,8 +13,10 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
       <p className="text-sm text-gray-500 dark:text-gray-300">
         Ushbu web dastur Worlde o'yinining o'zbek tilidagi nusxasi {'->'}{' '}
         <a
+          target="_blank"
           href="https://github.com/nomanoff/react-wordle"
           className="underline font-bold"
+          rel="noreferrer"
         >
           GitHub havola
         </a>{' '}
@@ -25,8 +27,10 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
       <p className="text-sm text-gray-500 dark:text-gray-300">
         Worlde ning Reactdagi asl nusxasi {'->'}{' '}
         <a
+          target="_blank"
           href="https://github.com/cwackerfuss/react-wordle"
           className="underline font-bold"
+          rel="noreferrer"
         >
           GitHub havola
         </a>{' '}
@@ -36,7 +40,12 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
 
       <p className="text-sm text-gray-500 dark:text-gray-300">
         O'zbek tiliga moslashtirishlar{' '}
-        <a href="https://github.com/nomanoff" className="underline font-bold">
+        <a
+          target="_blank"
+          href="https://github.com/nomanoff"
+          className="underline font-bold"
+          rel="noreferrer"
+        >
           Azizbek Nomanoff
         </a>{' '}
         tomonidan bajarildi.

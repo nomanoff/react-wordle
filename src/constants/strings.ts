@@ -10,8 +10,8 @@ export const CORRECT_WORD_MESSAGE = (solution: string) =>
 export const ENTER_TEXT = 'Kiritish'
 export const DELETE_TEXT = "O'chirish"
 export const STATISTICS_TITLE = 'Statistika'
-export const GUESS_DISTRIBUTION_TEXT = 'Taqsimotni taxmin qiling'
-export const NEW_WORD_TEXT = "Yangi so'z"
+export const GUESS_DISTRIBUTION_TEXT = 'Taxminiy taqsimot'
+export const NEW_WORD_TEXT = "Keyingi so'z"
 export const SHARE_TEXT = 'Ulashish'
 export const TOTAL_TRIES_TEXT = 'Jami urinishlar'
 export const SUCCESS_RATE_TEXT = 'Muvaffaqiyat darajasi'
