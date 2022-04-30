@@ -43,8 +43,10 @@ Open [http://localhost](http://localhost) in browser.
 - [Arwordle](https://arwordle.netlify.app/): Arabic
 - [Boludle](https://www.boludle.com/): Argentinian
 - [Gerdle](https://gerdle.vext.co.uk/): Cornish (Kernowek)
+- [Jwordle](https://jwordle.vercel.app/): Japanese
 - [Keclap](https://keclap.xyz/): Sundanese
 - [Kelmaly](https://kelmaly.com/): Arabic
+- [Kerdle](https://kerdle.vercel.app/): Cornish/Kernewek (Standard Written Form)
 - [Latindictionary.io](https://wordle.latindictionary.io/): Latin
 - [Lexoula](https://lexoula.com/): Ελληνικά (Greek)
 - [Malay](https://malay-wordle.netlify.app/): Bahasa Malaysia
@@ -59,7 +61,8 @@ Open [http://localhost](http://localhost) in browser.
 - [Szózat](https://szozat.miklosdanka.com/): Hungarian
 - [So'zzana](https://sozzana.netlify.app/): O'zbek (Lotin)
 - [Tàu Tâi-gí (Taigi Wordle)](https://tau.taigi.info/): Taigi (Taiwanese)
-- [Tlembung](https://tlembung.vercel.app/): Japanese
+- [Telugu](https://teluguwordle.com): Telugu (South Indian Language)
+- [Tlembung](https://tlembung.vercel.app/): Javanese
 - [Tugma](https://tugma.vercel.app): Hiligaynon (spoken in the Philippines)
 - [Ukrainian](https://goroh.pp.ua/games/wordle): Ukrainian
 - [Urdle](https://urdle.chaoticity.com/): Urdu
@@ -80,6 +83,7 @@ Open [http://localhost](http://localhost) in browser.
 - [꼬들 - 한국어](https://belorin.github.io/): Korean
 - [한글 풀어쓰기 5자](https://nakosung.github.io/wordle/): Korean
 - [ไทย](https://buddhistuniversity.net/wordle-thai/): Thai
+- [ಕನ್ನಡ](https://www.aksharabandha.co.in/): Kannada
 
 ### Fun themes
 
@@ -89,6 +93,7 @@ Open [http://localhost](http://localhost) in browser.
 - [Birdle - Emojis](https://birdle.dev): Bird emojis
 - [Birdle](https://www.creek-birdle.com/): Birds
 - [Buildly](https://buildly.procurepro.co/): Construction themed
+- [Chipotle](https://chipotlele.herokuapp.com): Chipotle (food, items, etc.) themed
 - [Crosswordle](https://crosswordle.mekoppe.com/): Crossword mashup
 - [Dundle](https://dundle.dunmiffcord.com/): The Office
 - [FFXIVrdle](https://ffxivrdle.com/): Final Fantasy XIV
@@ -96,17 +101,21 @@ Open [http://localhost](http://localhost) in browser.
 - [JoJodle](https://jojo-news.com/fun/jojodle/): JoJo’s Bizarre Adventure
 - [Mahjong Handle](https://mahjong-handle.update.sh/): Mahjong Hands
 - [Filmle](https://filmle.now.sh/): Movie titles
+- [Marvle](https://marvle.herokuapp.com): Superhero (Marvel and DC) themed
 - [Movie Wordle](https://movie-wordle.vercel.app): Bollywood
 - [Murdle](https://murdle.vercel.app/): Spooky hangman mashup
 - [Poker Handle](https://kikychow.github.io/poker-wordle/): Poker
 - [Quettale](https://quettale.vercel.app/): Quenya, Elven language in LOTR
 - [Radiole](https://radiole.vercel.app/): Radio-themed (for World Radio Day)
+- [RareWordle](https://rwordle.vercel.app/): Word guessing with multiple solutions each day where the goal is to find the most obscure one. It is inspired by the TV game show Pointless.
+- [Reverdle](https://reverdle.now.sh/): It's Wordle but in reverse, that is one hast to make as many guesses possible without having one green letter (i.e. one letter in the correct location compared to the hidden solution).
 - [Squirdle](https://squirdle-inky.vercel.app/): Pokeman
 - [Taylordle](https://www.taylordle.com/): Taylor Swift
 - [Trekle](https://treklegame.com): Star Trek
 - [Weedel](https://meetmeinouter.space/wordle/): Video game characters
 - [Wordle.cl](https://www.wordle.cl): Chilean modisms, cities, places
 - [Wrdl](https://wrdl-abae.vercel.app/): Words that are 5 letters long after getting rid of their vowels
+- [WROUD](https://www.wroud.net/): W R O U D is a simple word game that challenges people to find a six-letter word in 3 guesses from a cloud of letters. https://www.wroud.net/ A spinoff of Wordle but quite different and may be more fun!. WROUD = Word + Cloud
 
 ### Math, Acronyms, Science, Tech, and more
 
@@ -119,14 +128,17 @@ Open [http://localhost](http://localhost) in browser.
 - [Numble](https://rbrignall.github.io/numble/): Maths
 - [Opsle](https://opsle.vercel.app/): Ops
 - [Passwordle](https://passwordle.sp8c3.com/): Passwords
+- [Perfdle](https://perfdle.com): Performance Testers and Engineers, DevOps, and Observability
 - [Primel](https://converged.yt/primel/): Prime numbers
 - [Qwordle](https://qwordle.bhat.ca/): Quantum version of Wordle (uses entangled word-pairs)
 - [Quantle](https://deduckproject.github.io/quantle/): Another quantum variant where guesses are quantum equations
 - [Rundle](https://furstenheim.github.io/react-wordle/): Like wordle, but only last three guesses are considered.
 - [Stockle](https://stockle.win/): Guess the stock or ETF
 - [Syscordle](https://nezza.github.io/syscordle/): SYSCALL
+- [TwoKinds](https://twokinds.me): There's only two kinds of people in this World.
 - [UNLOCOdle](https://unlocodle.collabital.com/): UNLOCODEs
 - [Visionle](https://orisenbazuru.github.io/visionle/): Guess the label of randomly chosen image from ImageNet/ImageNet-Sketch dataset (Machine learning)
+- [0xdle](https://0xdle.vercel.app/): Hexadecimal
 
 _Want to add one to the list? Just make a pull request or [let us know via a comment here](https://github.com/cwackerfuss/react-wordle/issues/120)_
 
@@ -134,9 +146,19 @@ _Want to add one to the list? Just make a pull request or [let us know via a com
 
 ### How can I change the length of a guess?
 
-- Update the `MAX_WORD_LENGTH` variable in [src/constants/settings.ts](src/constants/settings.ts) to the desired length.
+The default configuration is for solutions and guesses of length five, but it is flexible enough to handle other lengths, even variable lengths each day.
+
+To configure for a different constant length:
+
 - Update the `WORDS` array in [src/constants/wordlist.ts](src/constants/wordlist.ts) to only include words of the new length.
-- Update the `VALID_GUESSES` array in [src/constants/validGuesses.ts](src/constants/validGuesses.ts) arrays to only include words of the new length.
+- Update the `VALID_GUESSES` array in [src/constants/validGuesses.ts](src/constants/validGuesses.ts) to only include words of the new length.
+
+To configure for variable lengths:
+
+- Update the `WORDS` array in [src/constants/wordlist.ts](src/constants/wordlist.ts) to include words of any of the variable lengths desired.
+- Update the `VALID_GUESSES` array in [src/constants/validGuesses.ts](src/constants/validGuesses.ts) to include words of any of the variable lengths desired.
+
+Note that guesses are validated against both the length of the solution, and presence in VALID_GUESSES.
 
 ### How can I create a version in another language?
 
